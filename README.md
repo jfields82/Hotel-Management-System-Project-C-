@@ -1,3 +1,3 @@
 # Hotel-Management-System-Project-C++
 
-# ![Intro-Hotel Management project](https://user-images.githubusercontent.com/12861265/194763093-7c13c1ab-810a-4cc9-9745-f0351aa74e8f.jpg)
+# ![Intro-Hotel Management project](https://user-images.githubusercontent.com/12861265/194763188-de382d13-6bf4-4bb5-8089-7bc4650af4f1.jpg)
